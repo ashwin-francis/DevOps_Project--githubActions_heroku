@@ -1,2 +1,2 @@
-# DevOps Projects : CICD with Github Actions
-Apps CI/CD using github actions and deploying it to heroku
+# DevOps Projects : CICD Piplelines
+Apps CI/CD using Github actions and Jenkins
